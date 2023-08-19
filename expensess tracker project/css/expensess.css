@@ -1,0 +1,39 @@
+
+.total-card{
+   display:flex;
+   justify-content: center;
+   margin:250px;
+   height:100%;
+   width:50%;
+   background-color: rgb(148, 152, 148);
+   border-radius: 15px;
+}
+
+
+.card{
+    padding:15px;
+    height:80%;
+    width:70%;
+    background-color:rgb(246, 248, 246);
+    border-radius: 15px solid blue;
+    margin:40px;
+}
+
+h1{
+    padding-bottom:15px;
+    text-align:center;
+}
+
+.add_data{
+    width:90%;
+    height:20px;
+    background-color: aquamarine;
+    border-radius: 4px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+
